@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":".images/thyroid.jpg",
+        "imagesrc":"https://nci-media.cancer.gov/pdq/media/images/719086-571.jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"diabeties.jpg",
+        "imagesrc":"https://images.prismic.io/thriva/2a056a45-daf2-4f31-84b7-217fbd6a94e1_diabetes-blood-test.jpg?auto=compress%2Cformat&fm=webp&w=800&h=800",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure.jpg",
+        "imagesrc":"https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJvYXV0aCI6eyJjbGllbnRfaWQiOiJmcm9udGlmeS1maW5kZXIifSwicGF0aCI6ImloaC1oZWFsdGhjYXJlLWJlcmhhZFwvZmlsZVwvNVF4ZHJhSFRnRkNya2d0U0ppVzkuanBnIn0:ihh-healthcare-berhad:5dXfDJF84AFfpKAcRDzfoxo3jMHGxtw1ZKgI-f4JYxc?format=webp",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
